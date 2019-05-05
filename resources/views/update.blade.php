@@ -32,7 +32,7 @@
     </div>
 
     <button type="submit" style="margin-right: 1%;" class="btn btn-primary" value="">Update</button>
-    <a href="{{ url('/') }}" class="btn btn-secondary">Back</a>
+    <a href="{{ url('/') }}" class="btn btn-secondary">Kembali</a>
   </fieldset>
 </form>
 
